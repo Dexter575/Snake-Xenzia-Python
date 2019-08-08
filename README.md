@@ -1,4 +1,4 @@
-# Snake-Xenzia-Python
+# SnakeXenzia-Python
 A Simple Snake Game Coded in Python
 ## Controls
 ### Arrow Keys
