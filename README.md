@@ -6,5 +6,6 @@ A Simple Snake Game Coded in Python
 - UP,
 - LEFT,
 - RIGHT
+
 The Game can be played in Terminal.
 If you liked it, kindly give it a star :D
